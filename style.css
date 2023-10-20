@@ -1,0 +1,25 @@
+
+#title{
+    color: rgb(67, 21, 67);
+}
+
+.first-row{
+    font-weight: 600;
+}
+
+table{
+    border: 1px solid black;
+
+}
+
+td, th {
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+  }
+
+  a{
+    display: block;
+    color: darkgreen;
+
+  }
